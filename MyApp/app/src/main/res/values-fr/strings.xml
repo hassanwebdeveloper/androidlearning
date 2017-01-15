@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mon application</string>
+    <string name="hello_world">Bonjour le monde!</string>
+	<string name="send_label">Envoyer</string>
+	<string name="edit_hint">Quel est votre prénom</string>
+	<string name="act2">act2</string>
+</resources>
