@@ -5,8 +5,9 @@ import android.os.*;
 import android.view.*;
 import android.content.*;
 import android.widget.*;
+import android.support.v4.app.FragmentActivity;
 
-public class MainActivity extends Activity 
+public class MainActivity extends FragmentActivity 
 {
 	public final static String Data="data";
     @Override

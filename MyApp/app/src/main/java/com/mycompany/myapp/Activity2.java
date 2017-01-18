@@ -6,8 +6,9 @@ import android.view.*;
 import android.content.*;
 import android.widget.*;
 import android.animation.*;
+import android.support.v4.app.FragmentActivity;
 
-public class Activity2 extends Activity
+public class Activity2 extends FragmentActivity
 {
 	@Override
     protected void onCreate(Bundle savedInstanceState)
